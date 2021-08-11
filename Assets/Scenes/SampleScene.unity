@@ -1642,7 +1642,7 @@ MonoBehaviour:
   head:
     vrTarget: {fileID: 447433319}
     rigTarget: {fileID: 306050312}
-    trackingPositionOffset: {x: 0, y: -0.23, z: -0.18}
+    trackingPositionOffset: {x: 0, y: 0.01, z: -0.12}
     trackingRotationOffset: {x: 180, y: 90, z: 90}
   leftHand:
     vrTarget: {fileID: 1348826350}
@@ -1655,7 +1655,7 @@ MonoBehaviour:
     trackingPositionOffset: {x: 0, y: 0, z: 0}
     trackingRotationOffset: {x: 90, y: -90, z: 0}
   headConstraint: {fileID: 306050312}
-  headBodyOffset: {x: 0, y: 0, z: 0}
+  headBodyOffset: {x: -1.1980082e-16, y: -1.6143371, z: -0.010172088}
 --- !u!114 &648337309
 MonoBehaviour:
   m_ObjectHideFlags: 0
