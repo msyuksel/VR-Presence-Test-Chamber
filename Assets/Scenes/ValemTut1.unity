@@ -1057,8 +1057,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_ModelPrefab
       value: 
-      objectReference: {fileID: 8853395565137159174, guid: c286a6c9a3603d04d912a40bf3688f84,
+      objectReference: {fileID: 8195570760712440630, guid: 061d04d2ba3fc304f9d47077740b61e8,
         type: 3}
+    - target: {fileID: 5583494920281521286, guid: 3d9f1f01ebca3c9458cf807d5c7f8066,
+        type: 3}
+      propertyPath: m_AnimateModel
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5583494920281521307, guid: 3d9f1f01ebca3c9458cf807d5c7f8066,
         type: 3}
       propertyPath: m_Enabled
@@ -1143,8 +1148,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_ModelPrefab
       value: 
-      objectReference: {fileID: 8853395565137159174, guid: c286a6c9a3603d04d912a40bf3688f84,
+      objectReference: {fileID: 8195570760712440630, guid: 786c1759212ca2a49982d21c02f269b8,
         type: 3}
+    - target: {fileID: 5583494921704934550, guid: 3d9f1f01ebca3c9458cf807d5c7f8066,
+        type: 3}
+      propertyPath: m_AnimateModel
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5583494921704934571, guid: 3d9f1f01ebca3c9458cf807d5c7f8066,
         type: 3}
       propertyPath: m_Enabled
